@@ -2,9 +2,11 @@
 
 ## Chapters to Read/Review
 - Chapter 2 (p. 32-43)
+- Chapter 3
 - Chapter 4
 - Chapter 5 (p. 216-218)
 - Chapter 6
+- Chapter 7
 - Chapter 8 (p. 312-321)
 
 ## Potential Questions
