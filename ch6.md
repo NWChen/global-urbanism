@@ -37,7 +37,7 @@ Chapter 6
     - Elimination of agricultural subsidies
     - Reduction of tariffs on foreign imports
     - Cuts in public spending
--
+
 ## The Restructuring of Urban Consumption
 - In the US, expansion of high-income workforce and emerging new cultural forms has led to high-income gentrification resting on the availability of a vast supply of low-wage workers
     - High-income gentrification is labor-intensive more than capital-intensive (capital intensity replaced with workers)
