@@ -1,3 +1,3 @@
-These notes are brief summaries for each chapter of _Cities In A World Economy_ by Saskia Sassen.
+These notes are brief summaries for each chapter of _Cities In A World Economy_ by Saskia Sassen. They provide a vocabulary of key terms/concepts that are often used in _Global Urbanism_.
 
-They rarely include concrete examples. Instead, they provide key terms/concepts emphasized by Saskia in each chapter. Refer to notes for concrete examples.
+As a result these notes lack concrete examples; for that content, turn to your notes.
