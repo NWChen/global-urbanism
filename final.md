@@ -18,3 +18,11 @@
 - Use examples from the text and class, and explain those ideas.
 - Try to stay away from external examples, which the TAs/Saskia might be less familiar with.
 - Claims you make should be clearly related to one another.
+
+## Rubric
+- Element 1: Demonstrate understanding of question, key concepts
+- Element 2: Textual evidence from text and lectures; concrete detail in examples
+- Element 3: Answers are well organized, clear, and coherent; Examples are connected back to the concepts 
+
+
+
